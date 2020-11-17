@@ -32,3 +32,32 @@
     width: 150px;
     margin: 20px auto;
 }
+.chat {
+    width: 375px;
+    margin: 0 auto;
+    /* border: 3px solid blue; */
+}
+
+.textChat {
+    padding: 0 5px;
+    margin-top: 10px;
+    min-height: 150px;
+    border: 2px solid green;
+}
+
+.left, .right {
+    margin-top: 3px;
+    padding: 1px 5px;
+    border-radius: 10px;
+    border: 2px solid blue;
+}
+
+
+.req {
+ margin-top: 5px;
+ text-align: right;
+}
+.res {
+    margin-top: 5px;
+    text-align: left;
+}
